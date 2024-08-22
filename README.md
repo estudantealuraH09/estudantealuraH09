@@ -1,11 +1,9 @@
-## Hi there 👋
+## Boas vindas ao meu perfil👋
 
-<!--
-**estudantealuraH09/estudantealuraH09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou  desenvolvendo scratch e javacript, além do alura
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+![](https://media1.tenor.com/m/_iheVyzHcTgAAAAC/bandeira-do-s%C3%A3o-paulo-s%C3%A3o-paulo-fc.gif)
+https://media1.tenor.com/m/_iheVyzHcTgAAAAC/bandeira-do-s%C3%A3o-paulo-s%C3%A3o-paulo-fc.gif
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
